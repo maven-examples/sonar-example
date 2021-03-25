@@ -1,3 +1,8 @@
+## Articles
+- http://confluence.marcuschiu.com/x/bIGFAQ
+- https://docs.sonarqube.org/latest/analysis/scan/sonarscanner-for-maven/
+
+## Invoke Sonar Scan
 mvn sonar:sonar \
 -Dsonar.projectKey=com.marcuschiu:sonar-example \
 -Dsonar.host.url=http://ubuntu-server.local:9000 \
